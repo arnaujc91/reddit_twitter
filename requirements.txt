@@ -1,4 +1,7 @@
 jupyterlab
 yfinance
+yahooquery
 matplotlib
 plotly
+tensorflow
+Keras
